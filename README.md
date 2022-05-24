@@ -1,8 +1,5 @@
 ```javascript
-if(sad() === true){
-   sad().stop();
-   workHard();
-}
+“I slept and dreamt that life was joy, i woke and saw that life was duty, I acted and behold… Duty was Joy”
 ```
 
 ![ROCHA GitHub stats](https://github-readme-stats.vercel.app/api?username=rocha101&show_icons=true&theme=dark)

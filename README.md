@@ -20,4 +20,5 @@
   <img align="center" alt="BASH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />                  
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocha101)](https://github.com/rocha101)

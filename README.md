@@ -6,7 +6,7 @@ Aqui estão alguns dos projetos que você encontrará neste repositório:
 - Projeto WTR Finances: 
   Sistema para gestão de finanças pessoais, tendo controle de orçamentos, objetivos e transações.
 - Projeto Barber Shop Manager:
-  Sistemas para gestão de barbearias, desenvolvido na disciplina de projeto integrador,\
+  Sistema para gestão de barbearias, desenvolvido na disciplina de projeto integrador,
   ele contém gestão de vendas, barbeiros, serviços, e localidades, além do agendamento de serviços.
 
 ## Tecnologias Utilizadas

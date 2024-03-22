@@ -21,6 +21,7 @@ Alguns das tecnologias que eu geralmente uso nos meus projetos incluem:
 - Prisma
 - Supabase (Banco de dados PostgreSQL em nuvem)
 - JAVA (spring boot)
+- Docker
 
 ## Contato
 Se você tiver alguma dúvida ou apenas quiser entrar em contato, você pode me encontrar através dos seguintes meios:

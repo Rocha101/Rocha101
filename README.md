@@ -27,7 +27,6 @@ Alguns das tecnologias que eu geralmente uso nos meus projetos incluem:
 Se você tiver alguma dúvida ou apenas quiser entrar em contato, você pode me encontrar através dos seguintes meios:
 
 - Email: eduardoprudenciorocha@gmail.com
-- LinkedIn: [Eduardo Rocha](https://www.linkedin.com/in/eduardo-rocha101/)
 - Whatsapp: (48) 998280420
   
 Obrigado por visitar meu repositório!

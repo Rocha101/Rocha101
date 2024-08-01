@@ -19,8 +19,7 @@ Alguns das tecnologias que eu geralmente uso nos meus projetos incluem:
 - NodeJS
 - Express
 - Prisma
-- Supabase (Banco de dados PostgreSQL em nuvem)
-- JAVA (spring boot)
+- Railway (Infraestrutura, Hospedagem, Containers em nuvem)
 - Docker
 
 ## Contato

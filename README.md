@@ -1,11 +1,5 @@
 Este é o meu repositório, onde compartilho projetos e códigos relacionados à minha jornada como desenvolvedor de software. Fique à vontade para explorar os projetos disponíveis aqui e fornecer feedback ou contribuir com novas ideias!
 
-## Projetos
-Aqui estão alguns dos projetos que você encontrará neste repositório:
-
-- Projeto WTR Finances: 
-  Sistema para gestão de finanças pessoais, tendo controle de orçamentos, objetivos e transações.
-
 ## Tecnologias Utilizadas
 Alguns das tecnologias que eu geralmente uso nos meus projetos incluem:
 

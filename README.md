@@ -7,9 +7,9 @@ Meu trabalho concentra-se no desenvolvimento de aplicações que combinam efici�
 Abaixo, listo alguns projetos representativos que exemplificam minha capacidade de resolver problemas reais com tecnologia:
 
 ### Total Tracking
-Descrição: Aplicativo web voltado para fisiculturismo, projetado para oferecer rastreamento detalhado de treinos, dieta e progresso físico.
-Resultados: Otimização de desempenho com tempos de carregamento reduzidos em 40% devido à arquitetura serverless no Vercel e à escalabilidade proporcionada pelo Railway.
-Tecnologias: Next.js, Node.js, Vercel (hospedagem frontend), Railway (hospedagem backend).
+- Descrição: Aplicativo web voltado para fisiculturismo, projetado para oferecer rastreamento detalhado de treinos, dieta e progresso físico.
+- Resultados: Otimização de desempenho com tempos de carregamento reduzidos em 40% devido à arquitetura serverless no Vercel e à escalabilidade proporcionada pelo Railway.
+- Tecnologias: Next.js, Node.js, Vercel (hospedagem frontend), Railway (hospedagem backend).
 
 ## Contato
 Estou disponível para discutir oportunidades de colaboração, esclarecer dúvidas ou receber feedback sobre os projetos aqui apresentados:

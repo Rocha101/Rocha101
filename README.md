@@ -6,10 +6,15 @@ Meu trabalho concentra-se no desenvolvimento de aplicações que combinam efici�
 ## Projetos em Destaque
 Abaixo, listo alguns projetos representativos que exemplificam minha capacidade de resolver problemas reais com tecnologia:
 
-### Total Tracking
+### [Total Tracking](https://github.com/Rocha101/total-tracking) - [API](https://github.com/Rocha101/api-total)
 - Descrição: Aplicativo web voltado para fisiculturismo, projetado para oferecer rastreamento detalhado de treinos, dieta e progresso físico.
 - Resultados: Otimização de desempenho com tempos de carregamento reduzidos em 40% devido à arquitetura serverless no Vercel e à escalabilidade proporcionada pelo Railway.
 - Tecnologias: Next.js, Node.js, Vercel (hospedagem frontend), Railway (hospedagem backend).
+
+### [Sistema de Chamados de TI - Prefeitura](https://github.com/Rocha101/teste-webbrain/)
+- Descrição: Sistema de gerenciamento de chamados de TI desenvolvido para a Prefeitura, permitindo o registro e acompanhamento de problemas técnicos, sugestões e incidentes.
+- Resultados: Melhoria na eficiência do atendimento e rastreamento de incidentes, com uma interface intuitiva e fácil integração com outros sistemas municipais.
+- Tecnologias: Frontend: Bootstrap 5, jQuery | Backend: PHP 8 | Database: MySQL | Server: XAMPP.
 
 ## Contato
 Estou disponível para discutir oportunidades de colaboração, esclarecer dúvidas ou receber feedback sobre os projetos aqui apresentados:
